@@ -2,6 +2,9 @@
 
 Scholarly Shelf é uma aplicação web que permite aos usuários pesquisar e descobrir artigos acadêmicos de diversas fontes. Ela oferece uma interface amigável para encontrar artigos de pesquisa relevantes em diferentes campos de estudo.
 
+![image](https://github.com/user-attachments/assets/e190762c-af86-40f2-8b21-ba455b7b0886)
+
+
 ## Funcionalidades
 
 - Pesquisar artigos acadêmicos usando palavras-chave
